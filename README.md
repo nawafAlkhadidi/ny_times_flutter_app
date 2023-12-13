@@ -36,7 +36,7 @@ NOTE: [Here_is_the_API_documentation](https://developer.nytimes.com/signup)
 
 1. clone the repository using the link below:
 ```
-https://github.com/nawafAlkhadidi/
+https://github.com/nawafAlkhadidi/ny_times_flutter_app
 ```
 
 2. run command below  in the terminal to get the required dependencies:
